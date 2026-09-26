@@ -51,7 +51,7 @@ Python tool that uses cryptographic hashes to establish and verify file integrit
 ### [Network Service Scanner](https://github.com/jmclean0766/network-service-scanner)
 Python-based network scanning tool for identifying services running on specified network ports.
 
-### Threat Intelligence Lookup Tool
+### [Threat Intelligence Lookup Tool[(https://github.com/jmclean0766/threat-intelligence-lookup)
 Python CLI tool that queries VirusTotal for IP reputation information and produces a threat assessment.
 
 ### Vulnerability Scanner
