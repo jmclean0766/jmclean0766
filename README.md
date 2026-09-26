@@ -48,7 +48,7 @@ Python CLI tool for detecting brute-force and password-spraying activity in auth
 ### [File Integrity Monitor](https://github.com/jmclean0766/file-integrity-monitor)
 Python tool that uses cryptographic hashes to establish and verify file integrity.
 
-### Network Service Scanner
+### [Network Service Scanner](https://github.com/jmclean0766/network-service-scanner)
 Python-based network scanning tool for identifying services running on specified network ports.
 
 ### Threat Intelligence Lookup Tool
