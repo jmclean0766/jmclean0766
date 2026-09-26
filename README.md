@@ -45,7 +45,7 @@ I build practical cybersecurity tools with Python to strengthen my skills in sec
 ### [Security Log Analyzer](https://github.com/jmclean0766/security-log-analyzer)
 Python CLI tool for detecting brute-force and password-spraying activity in authentication logs.
 
-### File Integrity Monitor
+### [File Integrity Monitor](https://github.com/jmclean0766/file-integrity-monitor)
 Python tool that uses cryptographic hashes to establish and verify file integrity.
 
 ### Network Service Scanner
