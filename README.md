@@ -54,7 +54,7 @@ Python-based network scanning tool for identifying services running on specified
 ### [Threat Intelligence Lookup Tool](https://github.com/jmclean0766/threat-intelligence-lookup)
 Python CLI tool that queries VirusTotal for IP reputation information and produces a threat assessment.
 
-### Vulnerability Scanner
+### [Vulnerability Scanner](https://github.com/jmclean0766/vulnerability-scanner)
 Python-based vulnerability assessment tool that correlates discovered software with known vulnerability records.
 
 ### Network Traffic Analyzer
