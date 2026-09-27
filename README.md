@@ -1,8 +1,8 @@
 ## Hi, I'm Jaime
 
-I'm a cybersecurity professional based in Trinidad & Tobago, focused on **security operations, cybersecurity analysis, and security automation**.
+I'm a cybersecurity professional, focused on **security operations, cybersecurity analysis, and security automation**.
 
-I'm currently seeking opportunities in roles such as:
+I'm currently interested in roles such as:
 
 - **Junior Cybersecurity Analyst**
 - **SOC Analyst**
