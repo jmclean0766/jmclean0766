@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Jaime
+## Hi, I'm Jaime
 
 I'm a cybersecurity professional based in Trinidad & Tobago, focused on **security operations, cybersecurity analysis, and security automation**.
 
@@ -57,7 +55,7 @@ Python CLI tool that queries VirusTotal for IP reputation information and produc
 ### [Vulnerability Scanner](https://github.com/jmclean0766/vulnerability-scanner)
 Python-based vulnerability assessment tool that correlates discovered software with known vulnerability records.
 
-### Network Traffic Analyzer
+### [Network Traffic Analyzer](https://github.com/jmclean0766/network-traffic-analyzer)
 Python tool for analyzing captured network traffic and identifying protocols and network communications.
 
 ### Security Incident Response Tool
