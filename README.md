@@ -58,7 +58,7 @@ Python-based vulnerability assessment tool that correlates discovered software w
 ### [Network Traffic Analyzer](https://github.com/jmclean0766/network-traffic-analyzer)
 Python tool for analyzing captured network traffic and identifying protocols and network communications.
 
-### Security Incident Response Tool
+### [Security Incident Response Tool](https://github.com/jmclean0766/security-incident-response-automation-tool)
 Python-based incident management tool for creating incidents, managing investigation status, and maintaining incident records.
 
 ## Current Focus
